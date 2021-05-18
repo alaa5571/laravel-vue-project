@@ -1,5 +1,7 @@
 # Laravel**Vue**Project
 
+- Live Site https://wuzzufny.herokuapp.com/
+
 # Getting started
 
 Assuming you've already installed on your machine: PHP (>= 7.2.0) or less, Laravel, Composer and Node.js.
