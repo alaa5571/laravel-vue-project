@@ -38,6 +38,10 @@ Run the database Seeders (**Generate App Data**)
 
     php artisan db:seed
 
+Link Storage (**let pictures work well**)
+
+    php artisan storage:link
+
 Start the local development server
 
     php artisan serve
@@ -61,16 +65,11 @@ You can now access the server at http://localhost:8000
 
     php artisan migrate
     php artisan db:seed
+    php artisan storage:link
     php artisan serve
     npm run dev
 
 ## Database seeding
-
-**Populate the database with seed data with relationships which includes users, articles, comments, tags, favorites and follows. This can help you to quickly start testing the api or couple a frontend and start using it with ready content.**
-
-Open the DummyDataSeeder and set the property values as per your requirement
-
-    database/seeds/DummyDataSeeder.php
 
 Run the database seeder and you're done
 
