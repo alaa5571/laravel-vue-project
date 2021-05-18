@@ -1,4 +1,4 @@
-# Laravel**Vue**Project
+# Laravel Vue Project
 
 - Live Site https://wuzzufny.herokuapp.com/
 
